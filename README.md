@@ -226,8 +226,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 👨‍💻 Autor
 
 **Seu Nome**
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seu-perfil)
+- GitHub: [@RodJunio94](https://github.com/RodJunio94)
+- LinkedIn: [Junio Rodrigues](https://www.linkedin.com/in/junio-santos-rodrigues/)
 
 ## 🙏 Agradecimentos
 
