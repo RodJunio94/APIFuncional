@@ -1,0 +1,6 @@
+@APIFuncional_HostAddress = http://localhost:5115
+
+GET {{APIFuncional_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
